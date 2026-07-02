@@ -34,7 +34,7 @@ AI Engineer at Wiseyak, building intelligent systems through Machine Learning, C
 ---
 
 ### Deep Neural Networks for Disease Classification from Endoscopic Imaging
-**2024 IEEE International Conference on Emerging Research in Computing, Information, Communication and Applications**
+**2024 International Conference on Emerging Research in Computational Science (ICERCS)**
 
 🔗 Paper: https://ieeexplore.ieee.org/document/10895860
 
