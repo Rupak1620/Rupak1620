@@ -4,15 +4,13 @@ Junior AI Engineer at Wiseyak, building intelligent systems through Machine Lear
 
 ## About Me
 
-## About Me
+-  Junior AI Engineer at Wiseyak, contributing to AI-driven healthcare solutions and software engineering.
 
--  AI Engineer at Wiseyak, contributing to AI-driven healthcare solutions and software engineering.
-
--  Graduated with a B.Tech in Computer Engineering from Jain (Deemed-to-be University), where I began exploring artificial intelligence through research and hands-on projects.
+-  Graduated with a B.Tech in Computer Engineering from Jain (Deemed-to-be University), where I began exploring artificial intelligence      through research and hands-on projects.
 
 -  Co-author of IEEE conference publications in deep learning for medical image analysis.
 
--  Currently expanding my expertise by building real-world AI systems, contributing to open-source technologies, and preparing for graduate studies (MS/PhD).
+-  Currently expanding my expertise by building real-world AI systems, contributing to open-source technologies, and preparing for           graduate studies (MS/PhD).
 
 
 ## Research Interests
