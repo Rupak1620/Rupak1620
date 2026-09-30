@@ -1,10 +1,10 @@
 #  Hi, I'm Rupak Aryal
 
-Junior AI Engineer at Wiseyak, building intelligent systems through Machine Learning, Computer Vision, Healthcare AI, and Software Engineering.
+AI Engineer at Wiseyak, building intelligent systems through Machine Learning, Computer Vision, Healthcare AI, and Software Engineering.
 
 ## About Me
 
--  Junior AI Engineer at Wiseyak, contributing to AI-driven healthcare solutions and software engineering.
+-  AI Engineer at Wiseyak, contributing to AI-driven healthcare solutions and software engineering.
 
 -  Graduated with a B.Tech in Computer Engineering from Jain (Deemed-to-be University), where I began exploring artificial intelligence      through research and hands-on projects.
 
