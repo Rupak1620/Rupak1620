@@ -1,4 +1,4 @@
-#  Hi, I'm Rupak Aryal
+#  Rupak Aryal
 
 AI Engineer at Wiseyak, building intelligent systems through Machine Learning, Computer Vision, Healthcare AI, and Software Engineering.
 
